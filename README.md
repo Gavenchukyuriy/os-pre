@@ -34,7 +34,7 @@ A screenshot showing how to create a virtual machine in Microsoft Azure can be f
 We are setting up and labeling our virtual machine as osticket-vm in this example. This will act as the cornerstone for effectively hosting and managing osTicket.
 </p>
 <p>
-<img src="https://i.imgur.com/w7P1BjA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2TPuUnX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <br />
